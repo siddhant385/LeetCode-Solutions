@@ -6,6 +6,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Array
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
