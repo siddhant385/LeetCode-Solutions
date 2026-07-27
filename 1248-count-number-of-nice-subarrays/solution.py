@@ -5,6 +5,8 @@ class Solution:
             l,r = 0,0
             s = 0
             cnt = 0
+            if ko < 0:
+                return 0
             while r < len(nums):
                 s += nums[r]%2
                 while s > ko:
