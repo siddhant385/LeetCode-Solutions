@@ -222,6 +222,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues) |
 ## Dynamic Programming
