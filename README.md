@@ -71,6 +71,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0904-fruit-into-baskets](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days) |
