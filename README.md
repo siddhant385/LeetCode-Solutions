@@ -7,4 +7,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
