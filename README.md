@@ -255,6 +255,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal) |
