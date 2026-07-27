@@ -25,7 +25,7 @@ class Solution:
             for i in range(4):
                 nrow = r + drow[i]
                 ncol = c + dcol[i]
-                if -1 < nrow < m and -1 < ncol < n:
+                if -1 < nrow < m and -1 < ncol < n and grid[nrow][ncol] != 5:
                     pq.append((cost+1,nrow,ncol))
 
 
