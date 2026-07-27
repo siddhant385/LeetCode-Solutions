@@ -230,6 +230,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3994-minimum-adjacent-swaps-to-partition-array) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum) |
+| [4001-aggregate-two-time-series](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4001-aggregate-two-time-series) |
 ## Two Pointers
 |  |
 | ------- |
