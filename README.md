@@ -29,6 +29,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0074-search-a-2d-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0075-sort-colors) |
 | [0078-subsets](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0078-subsets) |
+| [0079-word-search](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0090-subsets-ii) |
