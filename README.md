@@ -161,6 +161,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3330-find-the-original-typed-string-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3330-find-the-original-typed-string-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3474-lexicographically-smallest-generated-string) |
 ## Uncategorized
 |  |
 | ------- |
