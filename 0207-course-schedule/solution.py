@@ -6,7 +6,6 @@ class Solution:
         mp = defaultdict(list)
         for u,v in prerequisites:
             mp[u].append(v)
-        print(mp)
         visited = dict()
         def dfs(node):
             visited[node] = 1
