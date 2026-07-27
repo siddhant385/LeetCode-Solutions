@@ -270,6 +270,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1373-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i) |
