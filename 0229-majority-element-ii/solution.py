@@ -1,12 +1,13 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        count = {}
-        for num in nums:
-            if num in count:count[num] +=1
-            else:count[num] =1
-        lst = []
-        for num in count:
-            if count[num] > len(nums)/3:
-                lst.append(num)
-        return lst
+        n = len(nums)
+        d = dict()
+        for i in nums:
+            d[i] = d.get(i,0) +1
+        ans = []
+        for k in d:
+            if d[k] > n/3:
+                ans.append(k)
+        return ans
+        
         
