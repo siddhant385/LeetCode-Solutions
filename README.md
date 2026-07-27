@@ -216,6 +216,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i) |
+| [3945-digit-frequency-score](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
