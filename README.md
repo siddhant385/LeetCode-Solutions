@@ -63,6 +63,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
