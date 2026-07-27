@@ -268,6 +268,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1373-maximum-sum-bst-in-binary-tree) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii) |
