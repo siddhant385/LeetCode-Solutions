@@ -32,4 +32,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2665-counter-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2665-counter-ii) |
 | [2667-create-hello-world-function](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2667-create-hello-world-function) |
 | [2704-to-be-or-not-to-be](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2704-to-be-or-not-to-be) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
