@@ -98,6 +98,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1021-remove-outermost-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2138-divide-a-string-into-groups-of-size-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3330-find-the-original-typed-string-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3330-find-the-original-typed-string-i) |
 ## Uncategorized
 |  |
 | ------- |
