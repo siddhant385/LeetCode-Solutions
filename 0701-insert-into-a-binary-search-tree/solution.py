@@ -18,8 +18,7 @@ class Solution:
                 curr = curr.right
         node = TreeNode(val)
         if not curr:
-            root = node
-            return root
+            return node
         if curr.val > val:
             curr.left = node
         else:
