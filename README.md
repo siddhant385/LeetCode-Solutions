@@ -86,6 +86,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3833-count-dominant-indices](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3839-number-of-prefix-connected-groups) |
+| [3842-toggle-light-bulbs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
 | ------- |
