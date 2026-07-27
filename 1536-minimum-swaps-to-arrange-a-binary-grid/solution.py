@@ -1,28 +1,16 @@
 class Solution:
-    def minSwaps(self, grid: List[List[int]]) -> int:
+    def minSwaps(self, grid):
         n = len(grid)
-        count = []
-        for i in grid:
-            c = 0
-            for j in range(len(i)):
-                if i[n-1-j] == 0:
-                    c+=1
-                else:
-                    break
-            count.append(c)
-        ans = 0
+        trailing = [row[::-1].index(1) if 1 in row else n for row in grid]
+        
+        swaps = 0
         for i in range(n):
-            req = n-1-i
-            idx = -1
-            for j in range(i,n):
-                if count[j] >=req:
-                    idx = j
-                    break
-            if idx == -1:
-                return idx
-            for k in range(j,i,-1):
-                ans +=1
-                tmp = count[k-1]
-                count[k-1] = count[k]
-                count[k] = tmp
-        return ans
+            need = n - 1 - i
+            j = i
+            while j < n and trailing[j] < need:
+                j += 1
+            if j == n:
+                return -1
+            swaps += j - i
+            trailing[i:j+1] = [trailing[j]] + trailing[i:j]
+        return swaps
