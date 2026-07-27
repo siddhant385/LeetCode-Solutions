@@ -72,6 +72,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0704-binary-search](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0827-making-a-large-island) |
 | [0851-loud-and-rich](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0851-loud-and-rich) |
