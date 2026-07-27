@@ -6,7 +6,6 @@ class Solution:
             freq[i] = freq.get(i,0) + 1
         for j in nums2:
             freq[j] = freq.get(j,0) + 1
-        print(freq)
         for fre in freq:
             if freq[fre] > 1:
                 if fre in nums1:
