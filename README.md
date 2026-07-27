@@ -66,6 +66,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1552-magnetic-force-between-two-balls) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1838-frequency-of-the-most-frequent-element) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements) |
