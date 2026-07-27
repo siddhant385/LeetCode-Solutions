@@ -113,6 +113,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2966-divide-array-into-arrays-with-max-difference) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i) |
