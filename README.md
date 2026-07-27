@@ -37,6 +37,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence) |
