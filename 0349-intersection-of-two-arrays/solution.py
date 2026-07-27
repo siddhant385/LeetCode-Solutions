@@ -4,13 +4,10 @@ class Solution:
         freq = dict()
         for i in nums1:
             freq[i] = freq.get(i,0)+1
-        
-        for j in nums2:
-            freq[j] = freq.get(j,0)+1
         ans = []
-        for i in freq:
-            if freq[i] > 1:
-                ans.append(i)
+        for j in nums2:
+            if freq.get(j,0) == 1:
+                ans.append(j)
         return ans
 
 
