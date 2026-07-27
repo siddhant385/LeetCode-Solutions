@@ -41,6 +41,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
