@@ -83,6 +83,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency) |
 | [3719-longest-balanced-subarray-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3719-longest-balanced-subarray-i) |
+| [3833-count-dominant-indices](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3833-count-dominant-indices) |
 ## Linked List
 |  |
 | ------- |
