@@ -1,17 +1,14 @@
 class Solution:
     def dominantIndices(self, nums: List[int]) -> int:
+        n = len(nums)
         total = sum(nums)
-        minus = 0
+        prefix_sum = 0
         ans = 0
-        for i in range(len(nums)-1):
-            minus +=nums[i]
-            a = total-minus
-            b = len(nums)-(i+1)
-            print(a,b)
-            if nums[i] > a/b:
-                ans +=1
+        for i in range(n - 1):
+            val = nums[i]
+            prefix_sum += val
+            suffix_sum = total - prefix_sum
+            remaining_count = n - 1 - i
+            if val * remaining_count > suffix_sum:
+                ans += 1   
         return ans
-
-
-
-        
