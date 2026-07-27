@@ -17,4 +17,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
