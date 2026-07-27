@@ -12,6 +12,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0136-single-number) |
