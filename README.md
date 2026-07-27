@@ -17,6 +17,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0073-set-matrix-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0169-majority-element) |
 | [0189-rotate-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0189-rotate-array) |
