@@ -157,6 +157,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number) |
