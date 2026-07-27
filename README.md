@@ -67,6 +67,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3576-transform-array-to-all-equal-elements) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
 | ------- |
