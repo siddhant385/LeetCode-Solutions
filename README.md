@@ -116,4 +116,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0013-roman-to-integer](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
