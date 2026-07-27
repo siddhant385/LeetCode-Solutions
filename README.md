@@ -44,4 +44,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
