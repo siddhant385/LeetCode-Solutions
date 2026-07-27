@@ -93,6 +93,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3576-transform-array-to-all-equal-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3576-transform-array-to-all-equal-elements) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3591-check-if-any-element-has-prime-frequency) |
+| [3643-flip-square-submatrix-vertically](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3719-longest-balanced-subarray-i) |
 | [3833-count-dominant-indices](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3838-weighted-word-mapping) |
