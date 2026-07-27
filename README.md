@@ -24,6 +24,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0051-n-queens](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes) |
