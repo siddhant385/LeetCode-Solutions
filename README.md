@@ -66,6 +66,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3566-partition-array-into-two-equal-product-subsets) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3576-transform-array-to-all-equal-elements) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Linked List
 |  |
 | ------- |
