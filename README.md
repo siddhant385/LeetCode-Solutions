@@ -92,6 +92,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0020-valid-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2138-divide-a-string-into-groups-of-size-k) |
 ## Uncategorized
 |  |
 | ------- |
