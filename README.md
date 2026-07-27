@@ -91,6 +91,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1582-special-positions-in-a-binary-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid) |
