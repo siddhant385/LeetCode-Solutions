@@ -163,6 +163,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0022-generate-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0131-palindrome-partitioning) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses) |
