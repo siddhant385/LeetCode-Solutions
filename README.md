@@ -14,6 +14,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0268-missing-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
