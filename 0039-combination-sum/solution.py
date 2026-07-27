@@ -2,8 +2,9 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         ans = []
         def helper(s,target,i):
-            if sum(s) >= target or i < 0:
-                if sum(s)==target:
+            add = sum(s)
+            if add >= target or i < 0:
+                if add==target:
                     ans.append(s[:])
                 return 
             s.append(candidates[i])
