@@ -12,7 +12,6 @@ class Solution:
             return ans
         while q:
             n = len(q)
-            flag = True
             for i in range(n):
                 v = q.popleft()
                 if i==0:
