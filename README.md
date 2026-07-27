@@ -57,6 +57,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2364-count-number-of-bad-pairs) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2966-divide-array-into-arrays-with-max-difference) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3566-partition-array-into-two-equal-product-subsets) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
