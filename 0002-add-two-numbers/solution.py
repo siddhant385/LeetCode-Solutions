@@ -1,48 +1,35 @@
 # Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        sol = []
-        l1 = self.nodetolist(l1)
-        l2 = self.nodetolist(l2)
-        reversel1 = l1[::-1]
-        reversel2 = l2[::-1]
-        n1 = self.listtonum(reversel1)
-        n2 = self.listtonum(reversel2)
-        res = n1+n2
-        final_lstr = [int(x) for x in str(res)]
-        print(final_lstr)
-        final_lst = final_lstr[::-1]
-        node = self.listtolistnode(final_lst)
+        h1, h2 = l1, l2
+        carry = 0
+        node = None
+        tmp = None
+
+        while h1 or h2:
+            val1 = h1.val if h1 else 0
+            val2 = h2.val if h2 else 0
+
+            total = val1 + val2 + carry
+            val = total % 10
+            carry = total // 10
+
+            if tmp:
+                tmp.next = ListNode(val)
+                tmp = tmp.next
+            else:
+                tmp = ListNode(val)
+                node = tmp
+
+            h1 = h1.next if h1 else None
+            h2 = h2.next if h2 else None
+
+        # 🔴 THIS IS THE "LAST CASE" FIX
+        if carry:
+            tmp.next = ListNode(carry)
+
         return node
-    
-    def nodetolist(self,listq):
-        query = list()
-        while listq is not None:
-            query.append(listq.val)
-            listq = listq.next
-        return query
-    
-    def listtonum(self,listq):
-        s = [str(i) for i in listq]
-        # Join list items using join()
-        res = int("".join(s))
-        return(res)
-    
-    def listtolistnode(self,listq):
-        head = ListNode(listq[0])
-        tail = head
-        e = 1
-        while e < len(listq):
-            tail.next = ListNode(listq[e])
-            tail = tail.next
-            e+=1
-        return head
-
-
-                
-                
-        
