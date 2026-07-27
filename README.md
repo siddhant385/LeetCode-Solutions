@@ -18,6 +18,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0048-rotate-image](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0118-pascals-triangle) |
