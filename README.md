@@ -215,6 +215,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0242-valid-anagram](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
