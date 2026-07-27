@@ -83,6 +83,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2364-count-number-of-bad-pairs) |
+| [2573-find-the-string-with-lcp](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2573-find-the-string-with-lcp) |
 | [2643-row-with-maximum-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts) |
