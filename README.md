@@ -130,6 +130,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0131-palindrome-partitioning](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0131-palindrome-partitioning) |
 | [0796-rotate-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2138-divide-a-string-into-groups-of-size-k) |
