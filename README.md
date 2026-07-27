@@ -71,6 +71,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1582-special-positions-in-a-binary-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1838-frequency-of-the-most-frequent-element) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum) |
