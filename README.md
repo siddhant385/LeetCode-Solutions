@@ -92,6 +92,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2016-maximum-difference-between-increasing-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2215-find-the-difference-of-two-arrays) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
