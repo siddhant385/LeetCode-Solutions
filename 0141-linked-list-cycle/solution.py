@@ -8,15 +8,16 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         if not head:
             return False
-        slow = head
-        fast = head.next
-
-        while fast and fast.next:
-            if slow == fast:
-                return True
-            fast = fast.next.next
-            slow = slow.next
-        return False
             
-        
-        
+        slow = head
+        fast = head.next  # <-- तेज वाले को एक कदम आगे से शुरू कर सकते हैं
+
+        while slow != fast:
+            # अगर fast लिस्ट के अंत तक पहुँच गया, तो साइकिल नहीं है
+            if not fast or not fast.next:
+                return False
+            
+            slow = slow.next
+            fast = fast.next.next
+            
+        return True # अगर लूप टूटा मतलब slow और fast बराबर हो गए
