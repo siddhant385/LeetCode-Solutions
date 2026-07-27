@@ -79,6 +79,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list) |
