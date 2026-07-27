@@ -1,15 +1,16 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        n = len(nums)
+        subset = (1 << n)
         ans = []
-        def helper(i,st):
-            if i == len(nums):
-                ans.append(st[:])
-                return
-            st.append(nums[i])
-            helper(i+1,st)
-            st.pop()
-            helper(i+1,st)
-        helper(0,[])    
+        for i in range(subset):
+            l = []
+            for j in range(n):
+                if i & (1 << j):
+                    l.append(nums[j])
+            ans.append(l)
         return ans
+
+
 
         
