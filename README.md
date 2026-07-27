@@ -193,6 +193,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0424-longest-repeating-character-replacement](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
