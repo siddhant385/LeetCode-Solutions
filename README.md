@@ -143,6 +143,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0707-design-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
