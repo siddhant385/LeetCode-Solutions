@@ -72,6 +72,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0029-divide-two-integers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0509-fibonacci-number) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit) |
 | [3516-find-closest-person](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3516-find-closest-person) |
 ## String
 |  |
