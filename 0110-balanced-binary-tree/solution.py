@@ -8,12 +8,17 @@ class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         if not root:
             return True
+        flag = True
         def helper(root,lvl):
+            nonlocal flag
             if not root:
                 return lvl
             a = helper(root.left,lvl+1)
             b = helper(root.right,lvl+1)
+            if abs(a-b) > 1:
+                flag = False
             return max(a,b)
-        return abs(helper(root.left,0) - helper(root.right,0)) < 2 and self.isBalanced(root.left) and self.isBalanced(root.right)
+        helper(root,0)
+        return flag
             
         
