@@ -259,6 +259,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1781-sum-of-beauty-of-all-substrings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i) |
