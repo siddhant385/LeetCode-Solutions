@@ -6,17 +6,17 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        dicti = dict()
+        seen = set()
         curr = headA
         curr2 = headB
         while curr is not None:
-            dicti[curr] = dicti.get(curr,0)+1
+            seen.add(curr)
             curr = curr.next
         while curr2 is not None:
-            dicti[curr2] = dicti.get(curr2,0)+1
+            if curr2 in seen:
+                return curr2
             curr2 = curr2.next
-        for i in dicti.keys():
-            if dicti[i] > 1:
-                return i
         return None
+            
+        
         
