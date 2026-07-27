@@ -78,6 +78,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0083-remove-duplicates-from-sorted-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
