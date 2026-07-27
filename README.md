@@ -39,6 +39,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0268-missing-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
