@@ -15,9 +15,8 @@ class Solution:
             flag = True
             for i in range(n):
                 v = q.popleft()
-                if flag:
+                if i==0:
                     ans.append(v.val)
-                    flag = False
                 if v.right:q.append(v.right)
                 if v.left:q.append(v.left)
         return ans
