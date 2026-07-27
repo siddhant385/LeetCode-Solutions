@@ -142,6 +142,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0012-integer-to-roman](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists) |
