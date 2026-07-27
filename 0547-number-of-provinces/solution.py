@@ -13,7 +13,7 @@ class Solution:
         for i in range(n):
             if i not in visited:
                 cnt +=1
-            dfs(i)
+                dfs(i)
         return cnt
 
         
