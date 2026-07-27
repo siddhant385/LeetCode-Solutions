@@ -11,6 +11,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0014-longest-common-prefix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0189-rotate-array) |
+| [0268-missing-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
