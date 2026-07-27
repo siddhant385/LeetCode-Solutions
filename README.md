@@ -149,6 +149,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0696-count-binary-substrings) |
 ## Hash Table
 |  |
 | ------- |
