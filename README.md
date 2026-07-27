@@ -328,5 +328,6 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0743-network-delay-time](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
