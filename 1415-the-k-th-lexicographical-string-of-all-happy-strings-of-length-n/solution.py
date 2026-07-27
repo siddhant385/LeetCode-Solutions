@@ -2,21 +2,23 @@ class Solution:
     def getHappyString(self, n: int, k: int) -> str:
         ans = list()
         lst = ["a","b","c"]
-        def helper(s,nb,c):
+        def helper(s,nb):
             lg = len(s)
+            if len(ans) > k:
+                return
+
             if lg == n:
                 ans.append("".join(s[:]))
-                c +=1
                 return
-            elif lg > n or c > k:
+            elif lg > n:
                 return
             for i in range(3):
                 if i == nb:
                     continue
                 s.append(lst[i])
-                helper(s,i,c)
+                helper(s,i)
                 s.pop()
-        helper([],-1,0)
+        helper([],-1)
         if len(ans) < k:
             return ""
         return ans[k-1]
