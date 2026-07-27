@@ -26,4 +26,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [2620-counter](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2620-counter) |
 | [2667-create-hello-world-function](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2667-create-hello-world-function) |
+| [2704-to-be-or-not-to-be](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2704-to-be-or-not-to-be) |
 <!---LeetCode Topics End-->
