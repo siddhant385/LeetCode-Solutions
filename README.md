@@ -69,6 +69,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0560-subarray-sum-equals-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0733-flood-fill) |
 | [0851-loud-and-rich](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0851-loud-and-rich) |
 | [0860-lemonade-change](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0860-lemonade-change) |
