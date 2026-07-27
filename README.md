@@ -84,6 +84,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2364-count-number-of-bad-pairs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2364-count-number-of-bad-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones) |
+| [2906-construct-product-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2906-construct-product-matrix) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2966-divide-array-into-arrays-with-max-difference) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
