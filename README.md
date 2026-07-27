@@ -241,6 +241,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0100-same-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree) |
