@@ -1,11 +1,16 @@
 class DSU:
-    def __init__(self,n):
-        self.parent = [i for i in range(n)]
-        self.rank = [0 for _ in range(n)]
+    def __init__(self):
+        self.parent = dict()
+        self.rank = dict()
     
     def find(self,node):
+        if node not in self.parent:
+            self.parent[node] = node
+            self.rank[node] = 0
+            
         if self.parent[node] == node:
             return node
+            
         self.parent[node] = self.find(self.parent[node])
         return self.parent[node]
     
@@ -26,17 +31,17 @@ class DSU:
 
 class Solution:
     def removeStones(self, stones: List[List[int]]) -> int:
-
-        Dx = DSU(len(stones))
+        n = len(stones)
+        Dx = DSU()
         # creating graph
         cnt = 0
-        for i in range(len(stones)):
-            x1,y1 = stones[i] #(0,0)
-            for j in range(i+1,len(stones)):
-                x2,y2 = stones[j] # (0,1)
-                if x1==x2 or y1==y2:
-                    if Dx.union(i,j):
-                        cnt +=1
-        return cnt
-
+        for i in stones:
+            x = i[0]
+            y = pow(10,4) + i[1] +1
+            Dx.union(x,y)
+        total_leaders = 0
+        for node in Dx.parent:
+            if Dx.parent[node] == node:
+                total_leaders += 1
+        return n - total_leaders
         
