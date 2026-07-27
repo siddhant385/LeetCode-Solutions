@@ -8,7 +8,6 @@ class Solution:
         while l <= r and r < len(nums):
             size = (r - l)+1
             total = size * nums[r]
-            print(r)
             if total - csum <= k:
                 r+=1
                 if r<len(nums):
