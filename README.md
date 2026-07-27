@@ -238,6 +238,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
 |  |
