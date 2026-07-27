@@ -298,6 +298,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
