@@ -5,7 +5,6 @@ class Solution:
         n = len(graph)
         visited = [0 for _ in range(n)]
         # we will use dfs so lets create a dfs recursive function
-        acyclic_ele = []
         def dfs(node):
             # we will mark this element as visited
             visited[node] = 1
@@ -20,8 +19,6 @@ class Solution:
                 if visited[nodes] == 0:
                     if not dfs(nodes):
                         return False
-            # if we haven't returned anything from the recursion it means we have reached an end so add that value here tp acyclic_ele
-            acyclic_ele.append(node)
             # if we have done changing 
             visited[node] = 2
             return True
