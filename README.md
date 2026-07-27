@@ -220,6 +220,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3986-number-of-elapsed-seconds-between-two-times) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3987-minimum-total-cost-to-process-all-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3992-rearrange-string-to-avoid-character-pair) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3993-maximum-value-of-an-alternating-sequence) |
 ## Two Pointers
 |  |
 | ------- |
