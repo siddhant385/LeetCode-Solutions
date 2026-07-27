@@ -88,6 +88,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0006-zigzag-conversion](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0071-simplify-path) |
+| [1021-remove-outermost-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses) |
 ## Uncategorized
 |  |
 | ------- |
