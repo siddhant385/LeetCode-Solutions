@@ -15,6 +15,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0027-remove-element) |
 | [0031-next-permutation](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0054-spiral-matrix) |
