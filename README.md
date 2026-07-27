@@ -90,6 +90,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3566-partition-array-into-two-equal-product-subsets) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
