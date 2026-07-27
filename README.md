@@ -9,6 +9,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0001-two-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0014-longest-common-prefix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
