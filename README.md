@@ -83,6 +83,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2364-count-number-of-bad-pairs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2364-count-number-of-bad-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2966-divide-array-into-arrays-with-max-difference) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3566-partition-array-into-two-equal-product-subsets) |
