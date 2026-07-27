@@ -18,6 +18,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0033-search-in-rotated-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0054-spiral-matrix) |
