@@ -7,7 +7,6 @@
 class Solution:
     def maxSumBST(self, root: Optional[TreeNode]) -> int:
         max_sum = [0]
-        prev = None
         def dfs(root):
             if not root:
                 return 0, float('-inf') , float('inf') , True
