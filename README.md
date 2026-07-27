@@ -39,6 +39,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0283-move-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0704-binary-search) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
