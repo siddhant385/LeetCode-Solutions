@@ -1,25 +1,12 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        current = head
-        size = 0
-        while current:
-            current = current.next
-            size +=1
-        middle = size//2
-        current = head
-        cnt = 0
-        while cnt < middle:
-            current = current.next
-            cnt+=1
-        if current.next:
-            return current
-        return current
+        slow = head
+        fast = head
 
-        
-        
-        
+        # Jab tak fast pointer aage jaa sakta hai
+        while fast and fast.next:
+            slow = slow.next          # Slow 1 kadam chalta hai
+            fast = fast.next.next   # Fast 2 kadam chalta hai
+
+        # Jab loop rukta hai, slow pointer hamesha middle mein hota hai
+        return slow
