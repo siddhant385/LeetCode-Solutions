@@ -19,6 +19,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0007-reverse-integer](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
