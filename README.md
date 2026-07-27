@@ -127,6 +127,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0012-integer-to-roman](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency) |
