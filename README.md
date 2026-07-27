@@ -8,6 +8,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | ------- |
 | [0001-two-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0015-3sum) |
 | [0018-4sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0018-4sum) |
