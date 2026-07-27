@@ -46,6 +46,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0485-max-consecutive-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days) |
