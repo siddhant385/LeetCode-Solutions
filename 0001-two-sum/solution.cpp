@@ -5,8 +5,8 @@ public:
         for(int i=0;i<nums.size();i++){
             for(int j=i+1;j<nums.size();j++){
                 if(nums[i]+nums[j]==target){
-                    ans.insert(ans.begin(),i);
-                    ans.insert(ans.begin(),j);
+                    ans.push_back(i);
+                    ans.push_back(j);
                     return ans;
                 }
             }
