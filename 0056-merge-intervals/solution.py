@@ -1,21 +1,15 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        intervals.sort(key=lambda x: x[0])
-        res = []
-        minNum = intervals[0][0]
-        maxNum =intervals[0][1]
-        for lst in intervals:
-            minNum = min(minNum,lst[0])
-            if lst[0] > maxNum:
-                res.append([minNum,maxNum])
-                maxNum = lst[1]
-                minNum = lst[0]
-
-            elif lst[0] <= maxNum:
-                maxNum = max(lst[1],maxNum)
-        res.append([minNum,maxNum])
-        return res
-
-
-
+        intervals.sort()
+        n = len(intervals)
+        p = 1
+        ans = [intervals[0]]
+        while p < n:
+            if ans[-1][1] >= intervals[p][0]:
+                ans[-1] = [min(ans[-1][0],intervals[p][0]),max(ans[-1][1],intervals[p][1])]
+            else:
+                ans.append(intervals[p])
+            p+=1
+                
+        return ans
         
