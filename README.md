@@ -167,4 +167,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0401-binary-watch) |
 <!---LeetCode Topics End-->
