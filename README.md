@@ -72,6 +72,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0930-binary-subarrays-with-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold) |
