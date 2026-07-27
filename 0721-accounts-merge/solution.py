@@ -19,7 +19,7 @@ class DSU:
                 self.parent[abs_j] = abs_i
             else:
                 self.parent[abs_j] = abs_i
-                self.rank[abs_j] +=1
+                self.rank[abs_i] +=1
             return True
         return False
 
