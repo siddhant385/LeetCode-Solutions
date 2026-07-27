@@ -209,6 +209,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [2704-to-be-or-not-to-be](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2704-to-be-or-not-to-be) |
 | [3959-check-good-integer](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3959-check-good-integer) |
 | [3963-create-grid-with-exactly-one-path](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3963-create-grid-with-exactly-one-path) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3982-sum-of-integers-with-maximum-digit-range) |
 ## Two Pointers
 |  |
 | ------- |
