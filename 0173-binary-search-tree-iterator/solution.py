@@ -8,23 +8,21 @@ class BSTIterator:
 
     def __init__(self, root: Optional[TreeNode]):
         self.root = root
-        self.st = [root]
-        self.visited = set()
+        self.st = []
+        self.go_to_left(self.root)
 
-        
 
     def next(self) -> int:
-        while self.root.left and self.root not in self.visited:
-            self.visited.add(self.root)
-            self.st.append(self.root.left)
-            self.root = self.root.left
         node = self.st.pop()
         if node.right:
-            self.st.append(node.right)
-            self.root = node.right
+            self.go_to_left(node.right)
         return node.val
 
-            
+    def go_to_left(self,curr):
+        while curr:
+            self.st.append(curr)
+            curr =curr.left
+        
 
 
     def hasNext(self) -> bool:
