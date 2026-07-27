@@ -73,6 +73,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
