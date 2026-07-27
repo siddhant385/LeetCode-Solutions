@@ -301,4 +301,5 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0210-course-schedule-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
