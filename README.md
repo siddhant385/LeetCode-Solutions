@@ -136,6 +136,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2138-divide-a-string-into-groups-of-size-k) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3330-find-the-original-typed-string-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3330-find-the-original-typed-string-i) |
