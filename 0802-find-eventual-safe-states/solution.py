@@ -28,8 +28,7 @@ class Solution:
         for i in range(n):
             if visited[i] == 0:
                 dfs(i)
-        acyclic_ele.sort()
-        return acyclic_ele
+        return [i for i in range(n) if visited[i] == 2]
         
 
 
