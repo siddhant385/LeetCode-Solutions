@@ -12,7 +12,7 @@ class Solution:
                 while s > ko:
                     s -= nums[l]%2
                     l +=1
-                if s <= ko:cnt += r-l+1
+                cnt += r-l+1
                 r += 1
             return cnt
                     
