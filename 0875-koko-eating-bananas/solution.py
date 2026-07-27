@@ -5,9 +5,10 @@ class Solution:
         right = max(piles)
         while left<=right:
             mid = left+(right-left)//2
-            if self.banacheck(mid,piles)<=h:
+            hours = self.banacheck(mid, piles)
+            if hours<=h:
                 right = mid -1
-            elif self.banacheck(mid,piles)>h:
+            elif hours>h:
                 left = mid+1
         return left
     
