@@ -11,4 +11,8 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 <!---LeetCode Topics End-->
