@@ -6,4 +6,3 @@ class Solution:
                 return [idx,mp[target-i]]
             mp[i] = idx
             
-        
