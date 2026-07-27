@@ -20,6 +20,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0035-search-insert-position](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0048-rotate-image) |
 | [0051-n-queens](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0053-maximum-subarray) |
