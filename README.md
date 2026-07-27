@@ -163,6 +163,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0009-palindrome-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0050-powx-n) |
+| [0067-add-binary](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0067-add-binary) |
 | [0069-sqrtx](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0509-fibonacci-number) |
