@@ -52,6 +52,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0189-rotate-array](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0189-rotate-array) |
 | [0198-house-robber](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0229-majority-element-ii) |
