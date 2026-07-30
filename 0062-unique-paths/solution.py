@@ -11,7 +11,20 @@ class Solution:
         return dp[r][c]
 
     def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[-1 for i in range(n)] for _ in range(m)]
-        return self.byRecursion(m-1,n-1,dp)
+        prev = [-1 for _ in range(n)]
+        prev[0] = 1
+
+        for r in range(m):
+            curr = [1 for _ in range(n)]
+            for c in range(n):
+                if (r,c) == (0,0):
+                    continue
+                curr[c] = 0
+                if r-1 > -1:
+                    curr[c] += prev[c]
+                if c-1 > -1:
+                    curr[c] += curr[c-1]
+            prev = curr
+        return prev[c]
         
         
