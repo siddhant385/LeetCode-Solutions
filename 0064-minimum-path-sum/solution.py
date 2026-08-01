@@ -18,22 +18,40 @@ class Solution:
     #     up = grid[row][col] + self.SolveByMemoization(row-1,col,grid,dp)
     #     dp[row][col] = min(up,right)
     #     return dp[row][col]
-        
+    # def SolvedByTabulation(self, grid: List[List[int]]) -> int:
+    #     rows = len(grid)
+    #     cols = len(grid[0])
+    #     dp = [[-1 for i in range(cols)] for _ in range(rows)]
+    #     for row in range(rows):
+    #         for col in range(cols):
+    #             if (row,col) == (0,0):
+    #                 dp[row][col] = grid[row][col]
+    #             else:
+    #                 right,up = float('inf'),float('inf')
+    #                 if col > 0:
+    #                     right = grid[row][col] + dp[row][col-1]
+    #                 if row > 0:
+    #                     up = grid[row][col] + dp[row-1][col]
+    #                 dp[row][col] = min(up,right)
+
+        # return dp[rows-1][cols-1]
     def minPathSum(self, grid: List[List[int]]) -> int:
         rows = len(grid)
         cols = len(grid[0])
-        dp = [[-1 for i in range(cols)] for _ in range(rows)]
+        prev = [-1 for i in range(cols)]
         for row in range(rows):
+            curr = [-1 for i in range(cols)]
             for col in range(cols):
                 if (row,col) == (0,0):
-                    dp[row][col] = grid[row][col]
+                    curr[col] = grid[row][col]
                 else:
                     right,up = float('inf'),float('inf')
                     if col > 0:
-                        right = grid[row][col] + dp[row][col-1]
+                        right = grid[row][col] + curr[col-1]
                     if row > 0:
-                        up = grid[row][col] + dp[row-1][col]
-                    dp[row][col] = min(up,right)
+                        up = grid[row][col] + prev[col]
+                    curr[col] = min(up,right)
+            prev = curr
 
-        return dp[rows-1][cols-1]
+        return prev[-1]
         
