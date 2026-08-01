@@ -29,6 +29,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0056-merge-intervals](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix) |
