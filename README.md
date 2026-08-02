@@ -238,6 +238,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [4000-largest-integer-with-given-digit-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4000-largest-integer-with-given-digit-sum) |
 | [4001-aggregate-two-time-series](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4001-aggregate-two-time-series) |
 | [4006-count-valid-prefixes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4006-count-valid-prefixes) |
+| [4007-widest-possible-fence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4007-widest-possible-fence) |
 ## Two Pointers
 |  |
 | ------- |
