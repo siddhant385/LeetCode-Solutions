@@ -239,6 +239,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [4001-aggregate-two-time-series](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4001-aggregate-two-time-series) |
 | [4006-count-valid-prefixes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4006-count-valid-prefixes) |
 | [4007-widest-possible-fence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4007-widest-possible-fence) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd) |
 ## Two Pointers
 |  |
 | ------- |
