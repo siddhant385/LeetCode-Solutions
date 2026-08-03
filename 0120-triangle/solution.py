@@ -12,6 +12,20 @@ class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
         rows = len(triangle)
         dp = [[float("inf") for _ in range(rows)] for _ in range(rows)]
-        return self.SolveByRecursion(0,0,triangle,rows-1,dp)
+        for i in range(rows):
+            dp[rows-1][i] = triangle[rows-1][i]
+        
+        for i in range(rows-2,-1,-1):
+            for j in range(i,-1,-1):
+                down = triangle[i][j] + dp[i+1][j]
+                diagonal = triangle[i][j] + dp[i+1][j+1]
+                dp[i][j] = min(down,diagonal)
+        return dp[0][0]
+
+
+
+            
+        
+        # return self.SolveByRecursion(0,0,triangle,rows-1,dp)
 
         
