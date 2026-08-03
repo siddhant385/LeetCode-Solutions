@@ -240,6 +240,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [4006-count-valid-prefixes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4006-count-valid-prefixes) |
 | [4007-widest-possible-fence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4007-widest-possible-fence) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Two Pointers
 |  |
 | ------- |
