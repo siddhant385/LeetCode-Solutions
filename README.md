@@ -68,6 +68,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0349-intersection-of-two-arrays](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0485-max-consecutive-ones) |
