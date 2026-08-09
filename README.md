@@ -117,6 +117,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1980-find-unique-binary-string) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/siddhant385/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot) |
