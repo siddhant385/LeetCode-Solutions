@@ -7,15 +7,13 @@ class Solution:
             startSum += nums[pointer]
             pointer +=1
             print(pointer)
-        hashSet = set()
+        hash = set()
         for i in nums:
-            hashSet.add(i)
+            hash.add(i)
         
-        while True:
-            if startSum not in hashSet:
-                return startSum
-            startSum +=1
-            
+        for i in range(startSum,1276):
+            if i not in hash:
+                return i
         
 
 
