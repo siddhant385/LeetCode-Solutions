@@ -5,6 +5,7 @@ class Solution:
             return array[size].append(total_sum)
         pick = self.dfs(idx+1,size+1,total_sum+nums[idx],nums,n,array)
         notPick = self.dfs(idx+1,size,total_sum,nums,n,array)
+
     def minimumDifference(self, nums: List[int]) -> int:
         total = sum(nums)
         n = len(nums)
