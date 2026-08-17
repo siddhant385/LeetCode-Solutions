@@ -28,14 +28,12 @@ class Solution:
                 prev[i] = float('inf')
         
         for i in range(1,n):
-            curr = [-2 for _ in range(amount+1)]
             for target in range(amount+1):
                 notPick = 0 + prev[target]
                 pick = float('inf')
                 if coins[i] <= target:
-                    pick = 1 + curr[target-coins[i]]
-                curr[target] =  min(pick,notPick)
-            prev = curr
+                    pick = 1 + prev[target-coins[i]]
+                prev[target] =  min(pick,notPick)
                 
 
         return -1 if prev[amount] == float("inf") else prev[amount]
