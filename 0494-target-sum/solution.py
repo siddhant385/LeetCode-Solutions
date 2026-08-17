@@ -16,6 +16,18 @@ class Solution:
 
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         n = len(nums)
-        dp = [[-2 for _ in range(-2000,2001)]for _ in range(n)]
-        return self.recursion(n-1,target,nums,dp)
+        total_sum = sum(nums)
+        if abs(target) > total_sum: 
+            return 0
+        dp = [[0 for _ in range(-2000,2001)]for _ in range(n)]
+        dp[0][nums[0] + 2000] += 1
+        dp[0][-nums[0] + 2000] += 1
+        for i in range(1,n):
+            for j in range(-total_sum,total_sum+1):
+                pickPlus = dp[i-1][j+2000-nums[i]]
+                pickMinus = dp[i-1][j+2000+nums[i]]
+                dp[i][j+2000] = pickPlus + pickMinus
+
+        return dp[n-1][target+2000]
+        # return self.recursion(n-1,target,nums,dp)
         
