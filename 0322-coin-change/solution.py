@@ -20,23 +20,25 @@ class Solution:
 
     def coinChange(self, coins: List[int], amount: int) -> int:
         n = len(coins)
-        dp = [[-2 for _ in range(amount+1)]for _ in range(n)]
+        prev = [-2 for _ in range(amount+1)]
         for i in range(amount+1):
             if i % coins[0] == 0:
-                    dp[0][i] = i // coins[0] 
+                    prev[i] = i // coins[0] 
             else:
-                dp[0][i] = float('inf')
+                prev[i] = float('inf')
         
         for i in range(1,n):
+            curr = [-2 for _ in range(amount+1)]
             for target in range(amount+1):
-                notPick = 0 + dp[i-1][target]
+                notPick = 0 + prev[target]
                 pick = float('inf')
                 if coins[i] <= target:
-                    pick = 1 + dp[i][target-coins[i]]
-                dp[i][target] =  min(pick,notPick)
+                    pick = 1 + curr[target-coins[i]]
+                curr[target] =  min(pick,notPick)
+            prev = curr
                 
 
-        return -1 if dp[n-1][amount] == float("inf") else dp[n-1][amount]
+        return -1 if prev[amount] == float("inf") else prev[amount]
 
 
         # return -1 if self.recursion(n-1,amount,coins,dp) == float('inf') else self.recursion(n-1,amount,coins,dp)
