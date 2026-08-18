@@ -36,17 +36,14 @@ class Solution:
         prev = [0 for _ in range(amount+1)]
         prev[0] = 1
         for i in range(n):
-            curr = [0 for _ in range(amount+1)]
-            curr[0] = 1
             for j in range(1,amount+1):
                 pick = 0
                 if coins[i] <= j:
-                    pick = curr[j-coins[i]]
+                    pick = prev[j-coins[i]]
                 notPick = 0
                 if i -1 >= 0:
                     notPick = prev[j]
-                curr[j] = pick + notPick
-            prev = curr
+                prev[j] = pick + notPick
         return prev[amount]
 
 
