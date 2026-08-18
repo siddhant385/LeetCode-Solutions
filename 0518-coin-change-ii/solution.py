@@ -13,8 +13,7 @@ class Solution:
         dp[idx][target] = pick + notPick
         return dp[idx][target]
     
-
-    def change(self, amount: int, coins: List[int]) -> int:
+    def tabulation(self, amount: int, coins: List[int]) -> int:
         n = len(coins)
         dp = [[0 for _ in range(amount+1)]for _ in range(n)]
         for i in range(n):
@@ -29,6 +28,26 @@ class Solution:
                     notPick = dp[i-1][j]
                 dp[i][j] = pick + notPick
         return dp[n-1][amount]
+
+    
+
+    def change(self, amount: int, coins: List[int]) -> int:
+        n = len(coins)
+        prev = [0 for _ in range(amount+1)]
+        prev[0] = 1
+        for i in range(n):
+            curr = [0 for _ in range(amount+1)]
+            curr[0] = 1
+            for j in range(1,amount+1):
+                pick = 0
+                if coins[i] <= j:
+                    pick = curr[j-coins[i]]
+                notPick = 0
+                if i -1 >= 0:
+                    notPick = prev[j]
+                curr[j] = pick + notPick
+            prev = curr
+        return prev[amount]
 
 
 
