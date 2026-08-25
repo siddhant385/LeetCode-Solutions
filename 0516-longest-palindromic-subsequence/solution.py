@@ -30,17 +30,19 @@ class Solution:
         n = len(s)
         if n == 1:
             return 1
-        dp=[[0 for i in range(n+1)]for _ in range(n+1)]
+        prev=[0 for i in range(n+1)]
         for i in range(n-1,-1,-1):
+            curr=[0 for i in range(n+1)]
             for j in range(i,n):
                 if i == j:
-                    dp[i][j] += 1
+                    curr[j] += 1
                 elif s[i] == s[j]:
-                    dp[i][j] +=  2 + dp[i+1][j-1]
+                    curr[j] +=  2 + prev[j-1]
                 else:
-                    dp[i][j] += max(dp[i+1][j],dp[i][j-1])
+                    curr[j] += max(prev[j],curr[j-1])
+            prev = curr
         
-        return dp[0][n-1]
+        return prev[n-1]
 
 
             
