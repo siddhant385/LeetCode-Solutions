@@ -217,6 +217,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0796-rotate-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
