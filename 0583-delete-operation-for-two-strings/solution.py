@@ -18,6 +18,24 @@ class Solution:
 
     def minDistance(self, word1: str, word2: str) -> int:
         n1,n2 = len(word1),len(word2)
-        dp = [[-1 for i in range(n2)]for j in range(n1)]
-        return self.recursion(n1-1,n2-1,word1,word2,dp)
+        dp = [[0 for i in range(n2+1)]for j in range(n1+1)]
+        for i in range(n1+1):
+            for j in range(n2+1):
+                if i == 0:
+                    dp[i][j] = j
+                elif j ==0:
+                    dp[i][j] = i
+                
+                elif word1[i-1] == word2[j-1]:
+                    dp[i][j] = 0 + dp[i-1][j-1]
+                else:
+                    dp[i][j] = min(
+                        1 + dp[i-1][j],
+                        1 + dp[i][j-1]
+                    )
+        return dp[n1][n2]
+
+
+
+        # return self.recursion(n1-1,n2-1,word1,word2,dp)
         
