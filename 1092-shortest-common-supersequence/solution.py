@@ -21,27 +21,52 @@ class Solution:
     def shortestCommonSupersequence(self, str1: str, str2: str) -> str:
         n1 = len(str1)
         n2 = len(str2)
-        prev = ["" for _ in range(n2+1)]
+        dp = [[-1 for _ in range(n2+1)]for _ in range(n1+1)]
         for i in range(n1,-1,-1):
-            curr = ["" for _ in range(n2+1)]
             for j in range(n2,-1,-1):
                 if i == n1 and j == n2:
-                    curr[j] = ""
+                    dp[i][j] = 0
                 elif i == n1:
-                    curr[j] = str2[j] + curr[j+1]
+                    dp[i][j] = 1 + dp[i][j+1]
                 elif j == n2:
-                    curr[j] += str1[i] + prev[j]
+                    dp[i][j] = 1 + dp[i+1][j]
                 elif str1[i] == str2[j]:
-                    curr[j] = str1[i] + prev[j+1]
+                    dp[i][j] = 1 + dp[i+1][j+1]
                 else:
-                    s2 = str2[j] + curr[j+1]
-                    s1 = str1[i] + prev[j]
-                    if len(s1) < len(s2):
-                        curr[j] = s1
-                    else: curr[j] = s2
-            prev = curr
-                    
+                    s2 = 1 + dp[i][j+1]
+                    s1 = 1 + dp[i+1][j]
+                    dp[i][j] = min(s1,s2)
+        i,j = 0,0
+        ans = ""
+        while i < n1 or j < n2:
+            if i >=n1 and j >=n2:
+                return ans
+            if i ==n1:
+                ans += str2[j]
+                j+=1
+            elif j == n2:
+                ans += str1[i]
+                i +=1
+            elif str1[i] == str2[j]:
+                    ans += str1[i]
+                    i +=1 
+                    j +=1
+            else:
+                s2 = dp[i][j+1]
+                s1 = dp[i+1][j]
+                if s2 < s1:
+                    ans += str2[j]
+                    j +=1
+                else:
+                    ans += str1[i]
+                    i+=1
+        return ans
+        
+            
 
-        return prev[0]
+
+            
+                
+
 
         
