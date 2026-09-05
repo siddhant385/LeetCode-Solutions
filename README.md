@@ -159,6 +159,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [3843-first-element-with-unique-frequency](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3880-minimum-absolute-difference-between-two-values) |
+| [3904-smallest-stable-index-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/siddhant385/LeetCode-Solutions/tree/main/3975-filter-occupied-intervals) |
