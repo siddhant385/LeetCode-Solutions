@@ -16,23 +16,25 @@ class Solution:
     def numDistinct(self, s: str, t: str) -> int:
         m= len(s)
         n=len(t)
-        dp=[[0 for i in range(n+1)]for i in range(m+1)]
+        prev=[0 for i in range(n+1)]
         for i in range(m+1):
+            curr=[0 for i in range(n+1)]
             for j in range(n+1):
                 if i ==0 and j ==0:
-                    dp[i][j] = 1
+                    curr[j] = 1
                     continue
                 if i==0:
-                    dp[i][j] = 0
+                    curr[j] = 0
                     continue
                 if j == 0:
-                    dp[i][j] = 1
+                    curr[j] = 1
                     continue
                 if s[i-1] == t[j-1]:
-                    dp[i][j] = dp[i-1][j-1] + dp[i-1][j]
+                    curr[j] = prev[j-1] + prev[j]
                 else:
-                    dp[i][j]=dp[i-1][j]
-        return dp[m][n]
+                    curr[j]=prev[j]
+            prev = curr
+        return prev[n]
 
 
         # return self.recursion(m-1,n-1,s,t,dp)        
