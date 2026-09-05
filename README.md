@@ -212,6 +212,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0020-valid-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence) |
