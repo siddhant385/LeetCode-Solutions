@@ -18,8 +18,8 @@ class Solution:
         else:
             dp[i][j] = 1 + min(self.memoization(i-1,j,word1,word2,dp),self.memoization(i-1,j-1,word1,word2,dp),self.memoization(i,j-1,word1,word2,dp))
         return dp[i][j]
-        
-    def minDistance(self, word1: str, word2: str) -> int:
+    
+    def tabulation(self, word1: str, word2: str) -> int:
         m = len(word1)
         n = len(word2)
         dp = [[0 for i in range(n+1)]for _ in range(m+1)]
@@ -34,4 +34,22 @@ class Solution:
                 else:
                     dp[i][j] = 1 + min(dp[i-1][j],dp[i-1][j-1],dp[i][j-1])
         return dp[m][n]
+        
+    def minDistance(self, word1: str, word2: str) -> int:
+        m = len(word1)
+        n = len(word2)
+        prev = [0 for i in range(n+1)]
+        for i in range(m+1):
+            curr = [0 for i in range(n+1)]
+            for j in range(n+1):
+                if j==0:
+                    curr[j] = i
+                elif i ==0:
+                    curr[j] = j
+                elif word1[i-1] == word2[j-1]:
+                    curr[j] = prev[j-1]
+                else:
+                    curr[j] = 1 + min(prev[j],prev[j-1],curr[j-1])
+            prev = curr
+        return prev[n]
 
