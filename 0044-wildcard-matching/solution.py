@@ -25,6 +25,27 @@ class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         m = len(s)
         n = len(p)
-        dp = [[-1 for i in range(n)]for _ in range(m)]
-        return self.recursion(m-1,n-1,s,p,dp)
+        dp = [[-1 for i in range(n+1)]for _ in range(m+1)]
+        for i in range(m+1):
+            for j in range(n+1):
+                if i==0 and j == 0:
+                    dp[i][j] = True
+                # if i is exhausted and j is remaining
+                elif j == 0 and i > 0:
+                    dp[i][j] = False
+                elif i == 0 and j >0:
+                    dp[i][j] = True
+                    for x in range(j):
+                        if p[x] != "*":
+                            dp[i][j] = False
+                elif s[i-1] == p[j-1] or p[j-1] == "?":
+                    dp[i][j] = dp[i-1][j-1]
+                elif p[j-1] == "*":
+                    dp[i][j] = dp[i-1][j] or dp[i][j-1]
+                else:
+                    dp[i][j] = False
+        return dp[m][n]
+                
+
+        # return self.recursion(m-1,n-1,s,p,dp)
         
