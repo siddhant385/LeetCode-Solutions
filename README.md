@@ -85,6 +85,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0746-min-cost-climbing-stairs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0851-loud-and-rich) |
 | [0860-lemonade-change](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0875-koko-eating-bananas) |
