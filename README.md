@@ -45,6 +45,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0119-pascals-triangle-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0130-surrounded-regions) |
 | [0135-candy](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0135-candy) |
