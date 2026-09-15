@@ -11,14 +11,16 @@ class Solution:
         return dp[i][buy]
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
-        dp = [[0 for i in range(2)]for i in range(n+1)]
+        prev = [0 for i in range(2)]
         for i in range(n-1,-1,-1):
+            curr = [0 for i in range(2)]
             for j in range(2):
                 if j:
-                    dp[i][j] = max(-prices[i] + dp[i+1][0],0+dp[i+1][1])
+                    curr[j] = max(-prices[i] + prev[0],0+prev[1])
                 else:
-                    dp[i][j] = max(prices[i]+ dp[i+1][1],0+dp[i+1][0])
-        return dp[0][1]
+                    curr[j] = max(prices[i]+ prev[1],0+prev[0])
+            prev = curr
+        return prev[1]
         # return self.recursion(0,True,prices,dp)
 
         
