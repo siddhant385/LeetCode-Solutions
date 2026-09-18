@@ -84,6 +84,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0560-subarray-sum-equals-k](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs) |
