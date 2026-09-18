@@ -12,6 +12,13 @@ class Solution:
         return max(pick,notPick)
     def lengthOfLIS(self, nums: list[int]) -> int:
         n = len(nums)
-        dp = [[-2 for i in range(n+1)]for _ in range(n)]
-        return self.recursion(0,-1,nums,dp)
+        dp = [1 for i in range(n)]
+        maxi = 1
+        for i in range(n):
+            for prev in range(0,i):
+                if nums[prev] < nums[i]:
+                    dp[i] = max(1+dp[prev],dp[i])
+            maxi = max(maxi,dp[i])
+        return maxi
+
         
