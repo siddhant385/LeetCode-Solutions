@@ -67,6 +67,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0260-single-number-iii](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0322-coin-change) |
