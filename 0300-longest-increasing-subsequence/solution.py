@@ -10,15 +10,35 @@ class Solution:
         return dp[i][prev+1]
         
         return max(pick,notPick)
-    def lengthOfLIS(self, nums: list[int]) -> int:
+    def usingAlgorithmandforprinting(self, nums: list[int]) -> int:
         n = len(nums)
         dp = [1 for i in range(n)]
+        has = [1 for i in range(n)]
         maxi = 1
+        lastIndex = 0
         for i in range(n):
+            has[i] = i
             for prev in range(0,i):
-                if nums[prev] < nums[i]:
-                    dp[i] = max(1+dp[prev],dp[i])
-            maxi = max(maxi,dp[i])
-        return maxi
-
-        
+                if nums[prev] < nums[i] and 1+dp[prev] > dp[i]:
+                    dp[i] = 1+dp[prev]
+                    has[i] = prev
+            if dp[i] > maxi:
+                maxi = dp[i]
+                lastIndex = i
+        lis = [0 for i in range(maxi)]
+        lis[0] = nums[lastIndex]
+        while has[lastIndex] != lastIndex:
+            
+            return maxi
+    def lengthOfLIS(self, nums: list[int]) -> int:
+        temp = [nums[0]]
+        n = len(nums)
+        ans = 1
+        for i in range(n):
+            if nums[i] > temp[-1]:
+                temp.append(nums[i])
+                ans +=1
+            else:
+                idx = bisect.bisect_left(temp,nums[i])
+                temp[idx] = nums[i]
+        return ans
