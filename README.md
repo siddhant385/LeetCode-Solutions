@@ -224,6 +224,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [0008-string-to-integer-atoi](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/siddhant385/LeetCode-Solutions/tree/main/0072-edit-distance) |
