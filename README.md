@@ -275,6 +275,7 @@ Collection of LeetCode solutions synced by LeetCode+ Extension
 | [4007-widest-possible-fence](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4007-widest-possible-fence) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4010-maximize-pair-strength-using-gcd) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4074-maximum-product-pair-with-target-sum](https://github.com/siddhant385/LeetCode-Solutions/tree/main/4074-maximum-product-pair-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
